@@ -7,6 +7,7 @@
         <auto_gen>false</auto_gen>
         <category/>
         <cond_question>always</cond_question>
+        <context/>
         <correct_answer>1</correct_answer>
         <correct_answer_checkbox>1</correct_answer_checkbox>
         <correct_answer_choice/>
