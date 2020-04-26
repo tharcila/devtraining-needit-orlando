@@ -57,13 +57,89 @@
             <sys_updated_on>2020-01-23 02:53:45</sys_updated_on>
             <value>hr</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-26 17:53:53</sys_created_on>
+            <sys_domain>c94122494a362312007f2ce5bd78768f</sys_domain>
+            <sys_domain_path>!!!/!!(/</sys_domain_path>
+            <sys_id>f50074ebdb9c5010321ccd3f29961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-26 17:53:53</sys_updated_on>
+            <value>legal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-26 17:53:53</sys_created_on>
+            <sys_domain>c94122494a362312007f2ce5bd78768f</sys_domain>
+            <sys_domain_path>!!!/!!(/</sys_domain_path>
+            <sys_id>750074ebdb9c5010321ccd3f29961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-26 17:53:53</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-26 17:53:53</sys_created_on>
+            <sys_domain>c94122494a362312007f2ce5bd78768f</sys_domain>
+            <sys_domain_path>!!!/!!(/</sys_domain_path>
+            <sys_id>310074ebdb9c5010321ccd3f29961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-26 17:53:53</sys_updated_on>
+            <value>hr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TPS Report</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-26 17:53:53</sys_created_on>
+            <sys_domain>c94122494a362312007f2ce5bd78768f</sys_domain>
+            <sys_domain_path>!!!/!!(/</sys_domain_path>
+            <sys_id>3d0074ebdb9c5010321ccd3f29961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-26 17:53:53</sys_updated_on>
+            <value>TPS Report</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_request_type</element>
             <name>x_58872_needit_needit</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-10-31 12:19:30</sys_created_on>
-            <sys_id>95dbd1851b264410c6956356bd4bcb73</sys_id>
+            <sys_id>4652e0abdb5c5010321ccd3f29961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_request_type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
